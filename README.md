@@ -8,7 +8,7 @@
   <a href="https://github.com/Fran-910">GitHub</a> ·
   <a href="https://www.linkedin.com/in/franco-lionel-aguirre-477b57438/">LinkedIn</a> ·
   <a href="mailto:francolaguirre269@gmail.com">Email</a> ·
-  <a href="[https://portfolioweb-two-rust.vercel.app/](https://franco-aguirre-roecpmkqt-me-0661.vercel.app/)">Portfolio</a>
+  <a href="">Portfolio</a>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 Desarrollo software con el ecosistema **.NET (C#)**: aplicaciones web con **Blazor** y **ASP.NET Core**, APIs con **Entity Framework** y **SQL Server**, y videojuegos con **Unity**. Me enfoco en construir soluciones limpias, robustas y escalables.
 
 - Actualmente cursando la **Tecnicatura en Desarrollo de Software**.
-- Construyendo mi [portfolio]([https://portfolioweb-two-rust.vercel.app/](https://franco-aguirre-roecpmkqt-me-0661.vercel.app/)) y el juego de gestión **PP Farm**.
+- Construyendo mi [portfolio](https://franco-aguirre-roecpmkqt-me-0661.vercel.app/) y el juego de gestión **PP Farm**.
 - Abierto a proyectos independientes y colaboraciones.
 
 ### Stack
